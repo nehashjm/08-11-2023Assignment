@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Day3\assignment2\assignment2\bin\Debug\assignment2.exe.config
+D:\mphasis Simplilearn\Day3\assignment2\assignment2\bin\Debug\assignment2.exe
+D:\mphasis Simplilearn\Day3\assignment2\assignment2\bin\Debug\assignment2.pdb
+D:\mphasis Simplilearn\Day3\assignment2\assignment2\obj\Debug\assignment2.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day3\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day3\assignment2\assignment2\obj\Debug\assignment2.exe
+D:\mphasis Simplilearn\Day3\assignment2\assignment2\obj\Debug\assignment2.pdb
